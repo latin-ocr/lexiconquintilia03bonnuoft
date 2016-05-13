@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lexiconquintilia03bonnuoft_0019.png"; bbox 0 0 1586 2990; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 102 847 1249 1108">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 102 847 1249 1108">
+     <span class='ocr_line' id='line_1_1' title="bbox 102 847 1249 938; baseline 0.01 -24"><span class='ocrx_word' id='word_1_1' title='bbox 102 852 208 914; x_wconf 85' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 251 847 520 912; x_wconf 81' lang='lat' dir='ltr'><strong>FABII</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 567 851 1249 938; x_wconf 73' lang='lat' dir='ltr'><strong>QUINTILIANI.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 270 1031 1069 1108; baseline 0.005 -4"><span class='ocrx_word' id='word_1_4' title='bbox 270 1031 342 1104; x_wconf 92' lang='grc' dir='ltr'>Ο</span> <span class='ocrx_word' id='word_1_5' title='bbox 365 1033 441 1104; x_wconf 87' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_6' title='bbox 464 1033 534 1104; x_wconf 93' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 557 1033 626 1102; x_wconf 91' lang='lat' dir='ltr'>T</span> <span class='ocrx_word' id='word_1_8' title='bbox 655 1032 726 1104; x_wconf 92' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_9' title='bbox 751 1034 825 1106; x_wconf 82' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_10' title='bbox 847 1033 886 1105; x_wconf 95' lang='lat' dir='ltr'>I</span> <span class='ocrx_word' id='word_1_11' title='bbox 907 1036 977 1108; x_wconf 93' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1001 1037 1069 1108; x_wconf 93' lang='lat' dir='ltr'>E</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 1169 1338 1312">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 1169 1338 1312">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 1169 1338 1312; baseline 0.011 -14"><span class='ocrx_word' id='word_1_13' title='bbox 0 1169 1338 1312; x_wconf 65' lang='lat' dir='ltr'>irNsTITUTIoNIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 407 1419 941 1479">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 407 1419 941 1479">
+     <span class='ocr_line' id='line_1_4' title="bbox 407 1419 941 1479; baseline 0.004 -2"><span class='ocrx_word' id='word_1_14' title='bbox 407 1419 741 1477; x_wconf 83' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_15' title='bbox 818 1430 941 1479; x_wconf 90' lang='lat' dir='ltr'><strong>XII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 16 2433 29 2809">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 16 2433 29 2809">
+     <span class='ocr_line' id='line_1_5' title="bbox 16 2433 29 2809; textangle 90"><span class='ocrx_word' id='word_1_16' title='bbox 16 2433 29 2809; x_wconf 35' lang='lat' dir='ltr'><strong>‘&#39;ff-‘ffl-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 78 2835 132 2874">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 78 2835 132 2874">
+     <span class='ocr_line' id='line_1_6' title="bbox 78 2835 132 2874; textangle 90"><span class='ocrx_word' id='word_1_17' title='bbox 78 2835 132 2874; x_wconf 69' lang='grc' dir='ltr'><strong>ἐ]</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
